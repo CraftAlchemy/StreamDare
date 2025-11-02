@@ -1,0 +1,8 @@
+{
+  "name": "StreamDare ",
+  "description": "A sleek, modern live streaming platform interface where viewers can use AI to generate fun dares and challenges for their favorite streamers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
